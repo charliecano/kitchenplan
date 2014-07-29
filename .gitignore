@@ -6,3 +6,5 @@ Cheffile.lock
 .bundle
 .librarian
 Gemfile.lock
+.ccano.yml.swp
+.DS_Store

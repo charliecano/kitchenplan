@@ -5,7 +5,7 @@ recipes:
         - osxdefaults::set_computer_name
 attributes:
     osxdefaults:
-        computername: MyComputerName
+        computername: watson
     homebrewalt:
         apps:
             - git-extras
